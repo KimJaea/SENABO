@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 38f0d50d18f9ab54d812067749448276
+  - enabled: 1
+    path: Assets/Scenes/DogWalkingScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/BathScene.unity
+    guid: 4da9e33bab921c24faf41fea6635337e
+  - enabled: 1
+    path: Assets/Scenes/LogInScene.unity
+    guid: deddf69a264aab7449ede05eb6eca34f
+  - enabled: 1
+    path: Assets/Scenes/HeartScene.unity
+    guid: 63b4fe1b4caa13042bf8d0722ecfcad9
+  - enabled: 1
+    path: Assets/Scenes/BathOwnerDictDetailScene.unity
+    guid: 86c98e6f6ba6edd4a949341102c53881
+  - enabled: 1
+    path: Assets/Scenes/EmergencyIssueOwnerDictDetailScene.unity
+    guid: 6162cf1a2e464654e89f9ddbb455f8b2
+  - enabled: 1
+    path: Assets/Scenes/FoodFeedingOwnerDictDetailScene.unity
+    guid: 78661c8883f9d81469f63c82cc271638
+  - enabled: 1
+    path: Assets/Scenes/HospitalTimeOwnerDictDetailScene.unity
+    guid: 16f0c74b5140bfe43b032be2ea66da49
+  - enabled: 1
+    path: Assets/Scenes/IShouldCareOwnerDictDetailScene.unity
+    guid: d31c82b21f7021549a6b78e68644da72
+  - enabled: 1
+    path: Assets/Scenes/OwnerDictScene.unity
+    guid: 372feee505dc21840b8912c83573e5cb
+  - enabled: 1
+    path: Assets/Scenes/SettingScene.unity
+    guid: b9b5105c32505d544815c47407550108
+  - enabled: 1
+    path: Assets/Scenes/SnackTimeOwnerDictDetailScene.unity
+    guid: cac2adbc5581c7341b18f96b74fa7694
+  - enabled: 1
+    path: Assets/Scenes/WalkingOwnerDictDetailScene.unity
+    guid: 888e79db0806b5d46b615ecb9d9aba72
+  - enabled: 1
+    path: Assets/Scenes/YoungPuppyOwnerDictDetailScene.unity
+    guid: af5db1bc3fc99504e8ecdf9a474ac005
+  - enabled: 1
+    path: Assets/Scenes/LocationSettingScene.unity
+    guid: 5c1dfea475d3cdb4cb82e965e2e8ec70
+  - enabled: 1
+    path: Assets/Scenes/LogInScene.unity
+    guid: deddf69a264aab7449ede05eb6eca34f
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 274dc1c0ae550e841bc7fca78a0819a8
+  - enabled: 1
+    path: Assets/Scenes/MealScene.unity
+    guid: 953565f4831745842a95255166682fca
+  - enabled: 1
+    path: Assets/Scenes/MoveGroomingScene.unity
+    guid: b0e18f2e836938240a34471fbba0b53f
+  - enabled: 1
+    path: Assets/Scenes/MoveHospitalScene.unity
+    guid: 0b46511c1ae9fbf4f9e28e651ccff85b
+  - enabled: 1
+    path: Assets/Scenes/PoopScene.unity
+    guid: 0db84dd13b7a58b46b5e4953d3fde401
+  - enabled: 1
+    path: Assets/Scenes/ProfileScene.unity
+    guid: c06be3e3bb847814ca3da949421369a2
+  - enabled: 1
+    path: Assets/Scenes/ReceiptListScene.unity
+    guid: 403b06a3cf5aa264baff4837e7ad8950
+  - enabled: 1
+    path: Assets/Scenes/ReceiptScene.unity
+    guid: f3e01cf1c89c67649b8c80f3b33e851e
+  - enabled: 1
+    path: Assets/Scenes/ReportScene.unity
+    guid: 7eb0bc6d4b19ee3468ae71b505c78d23
+  - enabled: 1
+    path: Assets/Scenes/ProfileSettingScene.unity
+    guid: 5705ee90382eb9b4186abb14676d4aa0
+  - enabled: 1
+    path: Assets/Scenes/WalkCheckListScene.unity
+    guid: 52614b13dbabe3944a54f7460dcfe190
+  - enabled: 1
+    path: Assets/Scenes/WalkResultScene.unity
+    guid: c131bb5e0e75fa947be8e6dccfa5a920
+  - enabled: 1
+    path: Assets/Scenes/WeeklyReportScene.unity
+    guid: 45611f6651b396642b38e518b47ff24c
+  - enabled: 1
+    path: Assets/Scenes/FinalReportScene.unity
+    guid: e3848c333f5ee87499beed507bfe3b14
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a16636b933e8db544902e9d6e87b06d1, type: 2}
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 19e6c07c759c7c343a547cb6426ec38a, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 73676a62c1e09b248b5c500666b2f197, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: c07c56bcbf81d2146bcb27bd1b847d4f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 6343fc4c200e7684186be2d7c1ccd6d4, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 382673be449c4af45a3ba3bf23c261fb, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bc51af3ef54b6044285ac1f4c7d5d1cc, type: 2}

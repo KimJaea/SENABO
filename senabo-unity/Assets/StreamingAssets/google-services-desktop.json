@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432451573462",
+    "project_id": "senabo-k9a108t",
+    "storage_bucket": "senabo-k9a108t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432451573462:android:671d8b1672189bda7f1b77",
+        "android_client_info": {
+          "package_name": "com.ssafy.senabo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTZYBKIMinD3MPruE__mTNx3nwIULUnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
